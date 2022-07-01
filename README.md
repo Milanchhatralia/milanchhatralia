@@ -1,6 +1,6 @@
 :tada:
 
-Hello! I'm *Milan*, developer [@Holidify.com](Holidify.com).
+Hello! I'm *Milan*, developer [@Apty.io](Apty.io).
 
 >**Some of my latest side projects :coffee:**
 >- [Covid-19](https://milanchhatralia.github.io/Covid-live-front/) updates :octocat: 
